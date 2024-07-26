@@ -67,9 +67,4 @@ node transpiled.js
 ## Contribution
 
 Feel free to contribute by submitting issues or pull requests. If you have any questions or suggestions, please open an issue.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
