@@ -43,8 +43,8 @@ To run the solution for a specific question, navigate to the question's folder a
 
 ```cmd
 cd path\to\question-folder
-tsc source.ts
-node transpiled.js
+tsc fileName.ts
+node fileName.js
 ```
 
 ## Getting Started
@@ -52,7 +52,7 @@ node transpiled.js
 1. **Clone the Repository**:
    Open Command Prompt and run:
    ```cmd
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/hammadurrehman2006/typescript-45exercises-giaic
    cd your-repo
    ```
 
