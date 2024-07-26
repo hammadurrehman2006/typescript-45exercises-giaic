@@ -28,13 +28,13 @@ To run the TypeScript code for any question:
 2. **Transpile TypeScript to JavaScript**:
    Navigate to the specific question's folder and run:
    ```cmd
-   tsc source.ts
+   tsc fileName.ts
    ```
 
 3. **Run the JavaScript Code**:
    After transpiling, run:
    ```cmd
-   node transpiled.js
+   node fileName.js
    ```
 
 ### Example
